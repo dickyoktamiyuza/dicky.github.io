@@ -152,7 +152,7 @@ img {
 
 /* button */
 .text-brand {
-  color: gray;
+  color: rgb(241, 239, 239);
 }
 .btn {
   padding: 10px 24px;
@@ -171,7 +171,7 @@ img {
 }
 .btn-brand:hover {
   background-color: transparent;
-  color: gray;
+  color: white;
   border-color: gray;
 }
 .btn-brand:focus {
